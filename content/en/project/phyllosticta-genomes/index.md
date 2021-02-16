@@ -1,6 +1,6 @@
 ---
 title: Comparative genomics of Citrus-associated Phyllosticta species
-#summary: Performing comparative genomic analyses for the citrus-associated Phyllosticta species, focusing on the evolution of pathogenicity-related mechanisms mainly for P. citricarpa. We are mostly interested in genome evolution and pathogenicity-genes evolution, with an emphasis on the identification of genome-wide patterns and signatures of positive selection between these closely related Phyllosticta species, and how these patterns could be related to the pathogenicity of P. citricarpa.
+summary: Performing comparative genomic analyses for the citrus-associated Phyllosticta species, focusing on the evolution of pathogenicity-related mechanisms mainly for P. citricarpa.
 tags:
 - Phyllosticta
 - Phyllosticta citricarpa

@@ -1,6 +1,6 @@
 ---
 title: Functional analyses of Citrus-associated Phyllosticta species
-#summary: Development of new strategies for controlling P. citricarpa through functional approaches, with the aim to understand and describe the molecular mechanisms involved in pathogenicity and virulence, as well as the host-pathogen interaction with the Citrus plants.
+summary: Development of new strategies for controlling P. citricarpa through functional approaches
 tags:
 - Phyllosticta
 - Phyllosticta citricarpa
