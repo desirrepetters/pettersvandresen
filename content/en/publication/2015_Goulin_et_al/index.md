@@ -20,7 +20,7 @@ date: "2016-11-01T00:00:00Z"
 doi: "10.1016/j.micres.2016.06.010"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2016-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
