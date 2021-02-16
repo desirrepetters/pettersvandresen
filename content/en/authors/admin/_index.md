@@ -11,7 +11,7 @@ role: PhD Student in Genetics
 # Organizations/Affiliations
 organizations:
 - name: UFPR
-  url: "www.ufpr.br"
+  url: "https://www.ufpr.br"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
