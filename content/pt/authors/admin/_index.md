@@ -16,12 +16,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interesses:
+interests:
 - Genômica e evolução de fungos
 - Filogenia e taxonomia de fungos
 - Interação planta-patógeno
 
-educação:
+education:
   courses:
   - course: Doutorado em Genética
     institution: Universidade Federal do Paraná (Genética)
