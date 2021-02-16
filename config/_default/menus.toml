@@ -21,9 +21,15 @@
   
  [[main]]
   name = "Comparative genomics of Citrus-associated Phyllosticta species"
-  url = "#projects/phyllosticta-genomes"
+  url = "projects/phyllosticta-genomes"
   parent = "projects"
   weight = 1
+  
+ [[main]]
+  name = "Functional analyses of Citrus-associated Phyllosticta species"
+  url = "projects/phyllosticta-functional"
+  parent = "projects"
+  weight = 2
 
 [[main]]
   name = "Publications"
