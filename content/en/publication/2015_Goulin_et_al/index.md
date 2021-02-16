@@ -2,8 +2,11 @@
 title: "Identification of genes associated with asexual reproduction in Phyllosticta citricarpa mutants obtained through Agrobacterium tumefaciens transformation"
 authors:
 - Eduardo Goulin
+- Daiani Cristina Savi
 - admin
+- Vanessa Kava
 - Lygia Galli-Terasawa
+- Geraldo José Silva Jr
 - Chirlei Glienke
 author_notes:
 - "Equal contribution"
