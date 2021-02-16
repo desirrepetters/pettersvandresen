@@ -1,6 +1,6 @@
 ---
-title: Genomic and evolutive perspectives in phytopathology
-event: "Doenças de Plantas Cultivadas I" course at UEL - Universidade Estadual de Londrina
+title: Example Talk
+event: Academic Theme Conference
 event_url: https://example.org
 
 location: Source Themes HQ
