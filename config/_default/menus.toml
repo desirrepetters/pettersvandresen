@@ -16,7 +16,14 @@
 [[main]]
   name = "Projects"
   url = "#projects"
+  identifier = "projects"
   weight = 30
+  
+ [[main]]
+  name = "Comparative genomics of Citrus-associated Phyllosticta species"
+  url = "#projects/phyllosticta-genomes"
+  parent = "projects"
+  weight = 1
 
 [[main]]
   name = "Publications"
