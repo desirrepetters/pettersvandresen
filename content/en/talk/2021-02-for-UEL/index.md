@@ -1,6 +1,6 @@
 ---
-title: Example Talk
-event: Academic Theme Conference
+title: Genomic and evolutive perspectives in phytopathology
+event: Doenças de Plantas Cultivadas I course at UEL
 event_url: https://example.org
 
 location: Source Themes HQ
