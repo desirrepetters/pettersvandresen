@@ -1,13 +1,13 @@
 ---
-title: "An example journal article"
+title: "Identification of genes associated with asexual reproduction in Phyllosticta citricarpa mutants obtained through Agrobacterium tumefaciens transformation"
 authors:
 - admin
-- Robert Ford
+- Chirlei Glienke
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2016-11-01T00:00:00Z"
+doi: "10.1016/j.micres.2016.06.010"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
