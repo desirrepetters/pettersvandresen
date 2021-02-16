@@ -57,7 +57,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "content/en/publication/img/pycnidia-assay.jpg"
+image = "pycnidia-assay.jpg"
 caption = "Pycnidia formation assay in autoclaved citrus leaf discs 21 days after inoculation with *Phyllosticta citricarpa* wild type and mutant strains."
 
 +++
