@@ -1,30 +1,31 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Desirrê Petters-Vandresen
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Doutoranda em Genética
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: UFPR
+  url: "www.ufpr.br"
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
+interesses:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
 
-education:
+educação:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Doutorado em Genética
+    institution: Universidade Federal do Paraná (Genética)
     year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
