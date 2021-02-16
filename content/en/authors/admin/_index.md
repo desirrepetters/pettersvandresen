@@ -75,6 +75,6 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD Student at the Genetics Department at Universidade Federal do Parana (UFPR, Curitiba, Brazil), and member of the Bioprospecting and Microrganism Molecular Genetics Lab (BioGeMM), under supervision of Prof. Dr. Chirlei Glienke. I did part of my PhD research as a guest student at Max Planck Institute for Evolutionary Biology in Ploen, at the Environmental Genomics group under Prof. Dr. Eva Stukenbrock supervision (July 2019 - June 2020). 
+I am a PhD Student at the [Genetics Department at Universidade Federal do Parana (UFPR, Curitiba, Brazil)](https://www.bio.ufpr.br/portal/ppggenetica/), and member of the [Bioprospecting and Microrganism Molecular Genetics Lab (BioGeMM)](https://www.bio.ufpr.br/portal/biogemm/), under supervision of Prof. Dr. Chirlei Glienke. I did part of my PhD research as a guest student at Max Planck Institute for Evolutionary Biology in Ploen, at the [Environmental Genomics](https://web.evolbio.mpg.de/envgen/) group under Prof. Dr. Eva Stukenbrock supervision (July 2019 - June 2020). 
 
 My main research interests include fungal genomics and evolution, plant-pathogen interaction and fungal phylogeny and taxonomy.

@@ -75,6 +75,6 @@ user_groups:
 - Visitors
 ---
 
-Sou estudante de doutorado no Programa de Pós-Graduação em Genética na Universidade Federal do Paraná (UFPR, Curitiba, Brasil) e faço parte do Laboratório de Bioprospecção e Genética Molecular de Microrganismos (BioGeMM) na UFPR, sob orientação da Profª Chirlei Glienke. Recentemente fiz um estágio de doutorado-sanduíche no Instuto Max Planck de Biologia Evolutiva em Ploen, na Alemanha, no grupo Genômica Ambiental, sob supervisão da Profª Eva Stukenbrock (Julho 2019 - Junho 2020).
+Sou estudante de doutorado no [Programa de Pós-Graduação em Genética na Universidade Federal do Paraná (UFPR, Curitiba, Brasil)](https://www.bio.ufpr.br/portal/ppggenetica/) e faço parte do [Laboratório de Bioprospecção e Genética Molecular de Microrganismos (BioGeMM)](https://www.bio.ufpr.br/portal/biogemm/) na UFPR, sob orientação da Profª Chirlei Glienke. Recentemente fiz um estágio de doutorado-sanduíche no Instuto Max Planck de Biologia Evolutiva em Ploen, na Alemanha, no grupo de [Genômica Ambiental](https://web.evolbio.mpg.de/envgen/) e sob supervisão da Profª Eva Stukenbrock (Julho 2019 - Junho 2020).
 
 Meus principais interesses em pesquisa incluem genômica e evolução de fungos, interação planta-patógeno e filogenia e taxonomia de fungos. 
