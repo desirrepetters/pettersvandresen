@@ -1,5 +1,5 @@
 ---
-title: "Fusarium awaxy Petters-Vandresen, Galli-Terasawa, Terasawa & Glienke, sp. nov."
+title: "First Report of Colletotrichum nymphaeae Causing Blossom Blight, Peduncle Rot, and Fruit Rot on Pyrus pyrifolia in Brazil"
 authors:
 - Rafaele Regina Moreira
 - admin
