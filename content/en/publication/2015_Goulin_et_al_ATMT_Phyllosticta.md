@@ -35,14 +35,7 @@ selected = true
 projects = ["phyllosticta-functional"]
 
 # Links (optional).
-url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0944501316302002'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S0944501316302002"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
