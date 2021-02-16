@@ -1,7 +1,7 @@
 ---
 title: Genomic and evolutive perspectives in phytopathology
 event: "Doenças de Plantas Cultivadas I" course at UEL
-event_url: 
+#event_url: 
 
 #location: Source Themes HQ
 #address:
