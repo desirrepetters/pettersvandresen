@@ -1,23 +1,23 @@
 ---
-title: "Identification of genes associated with asexual reproduction in Phyllosticta citricarpa mutants obtained through Agrobacterium tumefaciens transformation"
+title: "Mating-type locus rearrangements and shifts in thallism states in Citrus-associated Phyllosticta species"
 authors:
-- Eduardo Goulin
-- Daiani Cristina Savi
 - admin
-- Vanessa Kava
-- Lygia Galli-Terasawa
-- Geraldo José Silva Jr
+- Bruno Janoski Rossi
+- Johannes Z Groenewald
+- Pedro W Crous
+- Marcos Antonio Machado
+- Eva H Stukenbrock
 - Chirlei Glienke
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- 
+- 
 -
 -
 -
 -
 - "Corresponding author"
-date: "2016-11-01T00:00:00Z"
-doi: "10.1016/j.micres.2016.06.010"
+date: "2020-11-01T00:00:00Z"
+doi: "10.1016/j.fgb.2020.103444"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -29,22 +29,25 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Microbiological Research, 192* (11), 2016"
-publication_short: "*MicRes*"
+publication: "*Fungal Genetics and Biology, 144* (11), 2020"
+publication_short: "*Fungal Genet. Biol.*"
 
-abstract: '*Phyllosticta citricarpa* is the epidemiological agent of Citrus Black Spot (CBS) disease, which is responsible for large economic losses worldwide. CBS is characterized by the presence of spores (pycnidiospores) in dark lesions of fruit, which are also responsible for short distance dispersal of the disease. The identification of genes involved in asexual reproduction of *P. citricarpa* can be an alternative for directional disease control. We analyzed a library of mutants obtained through *Agrobacterium tumefaciens* transformation system, looking for alterations in growth and reproductive structure formation. Two mutant strains were found to have lost the ability to form pycnidia. The flanking T-DNA insertion regions were identified on *P. citricarpa* genome by using blast analysis and further gene prediction. The predicted genes containing the T-DNA insertions were identified as Spindle Poison Sensitivity Scp3, Ion Transport protein, and Cullin Binding proteins. The Ion Transport and Cullin Binding proteins are known to be correlated with sexual and asexual reproduction in fungi; however, the exact mechanism by which these proteins act on spore formation in *P. citricarpa* needs to be better characterized. The Scp3 proteins are suggested here for the first time as being associated with asexual reproduction in fungus. This protein is associated with microtubule formation, and as microtubules play an essential role as spindle machinery for chromosome segregation and cytokinesis, insertions in this gene can lead to abnormal formations, such as that observed here in *P. citricarpa*. We suggest these genes as new targets for fungicide development and CBS disease control, by iRNA.'
+abstract: 'Currently, eight *Phyllosticta* species are known to be associated with several *Citrus* hosts, incorporating diverse lifestyles: while some of them are endophytic (*P. capitalensis* and *P. citribraziliensis*), others are pathogenic (*P. citriasiana*, *P. citricarpa*, *P. citrichinaensis* and *P. paracitricarpa*). Sexual reproduction plays a key role in the interaction between these *Phyllosticta* species and their *Citrus* hosts, especially for the spread and persistence of the pathogenic species in the environment. Given this, differences in sexual reproduction strategies could be related to the differences in lifestyles. To evaluate this hypothesis, we characterized the mating-type loci of six *Citrus*-associated *Phyllosticta* species from whole genome assemblies. Mating-type genes in the *Citrus*-associated *Phyllosticta* species are highly variable in their sequence content, but the genomic locations and organization of the mating-type loci are conserved. *Phyllosticta citriasiana*, *P. citribraziliensis*, *P. citricarpa* and *P. paracitricarpa* are heterothallic, while *P. capitalensis* and *P. citrichinaensis* are homothallic. In addition, the *P. citrichinaensis* *MAT1-2* idiomorph occurs in a separate location from the mating-type locus. Ancestral state reconstruction suggests that homothallism is the ancestral thallism state in *Phyllosticta*, with a shift to heterothallism in *Phyllosticta* species that are pathogenic to *Citrus*. Moreover, the homothallic strategies of *P. capitalensis* and *P. citrichinaensis* result from independent evolutionary events, as *P. capitalensis* locus likely represents the ancestral state, and *P. citrichinaensis* homothallism has risen through a reversion in a heterothallic ancestor and underwent remodelling events. As the pathogenic species *P. citriasiana*, *P. citricarpa* and *P. paracitricarpa* are heterothallic and incapable of selfing, disease management practices focused in preventing the occurrence of sexual reproduction could assist in the control of *Citrus* Black Spot and *Citrus* Tan Spot diseases. This study emphasizes the importance of studying *Citrus*-*Phyllosticta* interactions under evolutionary and genomic perspectives, as these approaches can provide valuable information about the association between *Phyllosticta* species and their hosts, and also serve as guidance for the improvement of disease management practices.'
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 'Mating-type genes in the *Citrus*-associated *Phyllosticta* species are highly variable in their sequence content, but the genomic locations and organization of the mating-type loci are conserved. ncestral state reconstruction suggests that homothallism is the ancestral thallism state in *Phyllosticta*, with a shift to heterothallism in *Phyllosticta* species that are pathogenic to *Citrus*.'
 
 tags:
 - Phyllosticta citricarpa
+- Mating-type
+- Evolution
+- Transposable elements
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0944501316302002
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S1087184520301353
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -56,7 +59,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Pycnidia formation assay in autoclaved citrus leaf discs 21 days after inoculation with *Phyllosticta citricarpa* wild type and mutant strains.'
+  caption: 'Pairwise comparison between mating-type genes and flanking regions showing homology of *MAT1-1-8* gene fragments in *Phyllosticta* *MAT1-2* strains.'
   focal_point: ""
   preview_only: false
 
