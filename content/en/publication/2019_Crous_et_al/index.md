@@ -23,7 +23,7 @@ publishDate: "2019-12-02T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Persoonia - Molecular Phylogeny and Evolution of Fungi, 43*, 2019"
+publication: "*Persoonia - Molecular Phylogeny and Evolution of Fungi 43*, 2019"
 publication_short: "*Persoonia*"
 
 abstract: 'This species description is part of the paper "Fungal Planet description sheets: 951–1041" by Crous et al. 
