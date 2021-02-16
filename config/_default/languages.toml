@@ -9,12 +9,12 @@
 
 # Uncomment the lines below to configure your website in a second language.
 [pt]
-#  languageCode = "pt"
-#  contentDir = "content/pt"
-#  title = "Desirrê Petters-Vandresen"
-#  [pt.params]
-#    description = "Site description in Chinese..."
-#  [[pt.menu.main]]
-#    name = "Desirrê"
-#    url = "#about"
-#    weight = 1
+  languageCode = "pt"
+  contentDir = "content/pt"
+  title = "Desirrê Petters-Vandresen"
+  [pt.params]
+    description = "Site description in Chinese..."
+  [[pt.menu.main]]
+    name = "Desirrê"
+    url = "#about"
+    weight = 1
