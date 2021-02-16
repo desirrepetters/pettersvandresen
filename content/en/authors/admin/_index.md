@@ -43,13 +43,13 @@ social:
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/desirrepetters
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=9FiOFW4AAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/desirrepetters
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,4 +69,6 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD Student at the Genetics Department at Universidade Federal do Parana (UFPR, Curitiba, Brazil), and did part of my PhD research as a guest student at Max Planck Institute for Evolutionary Biology in Ploen, Germany, with Prof. Eva Stukenbrock’s group (July 2019 - June 2020). In Brazil, I am a member of the Bioprospecting and Microrganism Molecular Genetics Lab (BioGeMM) at UFPR. My main research interests include fungal genomics and evolution, plant-pathogen interaction and fungal phylogeny and taxonomy.
+I am a PhD Student at the Genetics Department at Universidade Federal do Parana (UFPR, Curitiba, Brazil), and member of the Bioprospecting and Microrganism Molecular Genetics Lab (BioGeMM), under supervision of Prof. Dr. Chirlei Glienke. I did part of my PhD research as a guest student at Max Planck Institute for Evolutionary Biology in Ploen, at the Environmental Genomics group under Prof. Dr. Eva Stukenbrock supervision (July 2019 - June 2020). 
+
+My main research interests include fungal genomics and evolution, plant-pathogen interaction and fungal phylogeny and taxonomy.
