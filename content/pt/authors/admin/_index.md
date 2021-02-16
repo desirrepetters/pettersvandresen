@@ -14,7 +14,7 @@ organizations:
   url: "https://www.ufpr.br"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Meus principais interesses em pesquisa incluem genômica e evolução de fungos, interação planta-patógeno e filogenia e taxonomia de fungos. 
 
 interests:
 - Genômica e evolução de fungos
