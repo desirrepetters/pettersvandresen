@@ -68,5 +68,6 @@ subtitle = ""
 +++
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+Clique [aqui](./publication/) para buscar e filtrar as publicações de acordo com tipo e data.
 {{% /callout %}}
+
