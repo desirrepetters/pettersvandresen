@@ -6,7 +6,7 @@ authors:
 - admin
 - Vanessa Kava
 - Lygia Galli-Terasawa
-- Geraldo José Silva Jr.
+- Geraldo José Silva Jr
 - Chirlei Glienke
 author_notes:
 - "Equal contribution"
@@ -52,7 +52,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Pycnidia formation assay in autoclaved citrus leaf discs 21 days after inoculation with *Phyllosticta citricarpa* wild type and mutant strains.'
+  caption: 'Pycnidia formation assay in autoclaved citrus leaf discs 21 days after inoculation with Phyllosticta citricarpa wild type and mutant strains.'
   focal_point: ""
   preview_only: false
 
