@@ -11,28 +11,27 @@ role: Doutoranda em Genética
 # Organizations/Affiliations
 organizations:
 - name: UFPR
-  url: "www.ufpr.br"
-
+  url: "https://www.ufpr.br"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interesses:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Genômica e evolução de fungos
+- Filogenia e taxonomia de fungos
+- Interação planta-patógeno
 
 educação:
   courses:
   - course: Doutorado em Genética
     institution: Universidade Federal do Paraná (Genética)
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2022
+  - course: Mestrado em Genética
+    institution: Universidade Federal do Paraná (Genética)
+    year: 2018
+  - course: Bacharelado em Ciências Biológicas
+    institution: Universidade Federal do Paraná (Genética)
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
