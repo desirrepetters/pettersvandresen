@@ -1,6 +1,6 @@
 ---
 title: Basic notions on phylogenetic trees
-event: "Detecção Molecular de Fitopatógenos" course at UFPR
+event: Detecção Molecular de Fitopatógenos course at UFPR
 
 #event_url: https://example.org
 
