@@ -12,8 +12,19 @@ event: Detecção Molecular de Fitopatógenos course at UFPR
   #postcode: '94305'
   #country: United States
 
-summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+#summary: 
+abstract: "These were two talks given at the course "Molecular Detection of Phytopagens", offered by the Vegetal Production Program at UFPR. The course was coordinated by Prof. Renata Faier Calegario. 
+
+The main goal of the course was to provide students the basic knowledge on several molecular and sorological methods to detect phytopathogens, as well as some notions in bioinformatic tools and analyses.
+
+In this sense, my talks were focused on:
+- DNA sequence comparison with GenBank sequences
+- Criteria for finding and selecting reference sequences for comparison
+- Multi-sequence alignment, alignment inspection and correction
+- Test of best-fit substitution models
+- Maximum Likelihood and Bayesian Inference phylogenetic analyses
+- Basic concepts in phylogeny: how to interpret phylogenetic trees?
+- How are species defined and identified?"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
