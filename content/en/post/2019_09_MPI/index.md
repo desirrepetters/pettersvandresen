@@ -4,6 +4,12 @@ subtitle: 'My poster for MPI Fungal Symposium 2019 in Plön, Germany.'
 summary: My poster for MPI Fungal Symposium 2019 in Plön, Germany.
 authors:
 - admin
+- Marcos Antonio Machado
+- Chirlei Glienke
+author_notes:
+- "Laboratório de Bioprospecção e Genética Molecular de Microrganismos (BioGeMM), Departamento de Genética, Setor de Ciências Biológicas, Universidade Federal do Paraná,Curitiba, Brazil; Environmental Genomics, Max Planck Institute for Evolutionary Biology, Plön, Germany"
+- "Centro de Citricultura Sylvio Moreira, Cordeirópolis, Brazil"
+- "Laboratório de Bioprospecção e Genética Molecular de Microrganismos (BioGeMM), Departamento de Genética, Setor de Ciências Biológicas, Universidade Federal do Paraná,Curitiba, Brazil"
 tags:
 - MPI Fungal Symposium
 - Phyllosticta
@@ -35,13 +41,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: [phyllosticta-genomes]
 ---
-
-**Desirrê AL Petters-Vandresen**, Marcos A Machado, Chirlei Glienke
-
-Genetics, Federal University of Paraná, Curitiba
-
-
-Centro de Citricultura Sylvio Moreira, Cordeirópolis, Brazil
 
 To this date, eight *Phyllosticta* species are known to be associated with *Citrus* hosts, presenting endophytic and pathogenic lifestyles. As sexual reproduction is a key factor involved in host-interaction, it could be related to the differences in lifestyles. To evaluate this hypothesis, we characterized the mating-type locus in six *Citrus*-associated *Phyllosticta* species from whole genome assemblies. Comparisons demonstrate that mating-type genes are highly variable in their sequence content, but the genomic location and organization of mating-type locus is conserved. *P. citriasiana*, *P. citribraziliensis* and *P. paracitricarpa* were described as heterothallic, and *P. citrichinaensis* was confirmed as homothallic. In addition, *P. citrichinaensis MAT1-2* idiomorph occurs in a separate location from the mating-type locus, something that was not described yet in *Phyllosticta* genus. Moreover, *P. capitalensis* and P. citrichinaensis homothallic strategies differ, which suggest they might result from independent evolutionary events. This study provides important information and perspectives for future studies on mating-type evolution in *Phyllosticta* genus, emphasizing the importance of studying *Citrus-Phyllosticta* interactions under genomic approaches.
 

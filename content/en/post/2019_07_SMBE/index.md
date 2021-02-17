@@ -4,6 +4,12 @@ subtitle: 'My poster for SMBE 2019 in Manchester, UK.'
 summary: My poster for SMBE 2019 in Manchester, UK.
 authors:
 - admin
+- Marcos Antonio Machado
+- Chirlei Glienke
+author_notes:
+- "Laboratório de Bioprospecção e Genética Molecular de Microrganismos (BioGeMM), Departamento de Genética, Setor de Ciências Biológicas, Universidade Federal do Paraná,Curitiba, Brazil; Environmental Genomics, Max Planck Institute for Evolutionary Biology, Plön, Germany"
+- "Centro de Citricultura Sylvio Moreira, Cordeirópolis, Brazil"
+- "Laboratório de Bioprospecção e Genética Molecular de Microrganismos (BioGeMM), Departamento de Genética, Setor de Ciências Biológicas, Universidade Federal do Paraná,Curitiba, Brazil"
 tags:
 - SMBE
 - Phyllosticta
