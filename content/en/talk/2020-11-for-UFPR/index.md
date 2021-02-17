@@ -12,7 +12,7 @@ event: Detecção Molecular de Fitopatógenos course at UFPR
   #postcode: '94305'
   #country: United States
 
-#summary: 
+summary: Basic notions on phylogenetic concepts and tools for phytopathology students
 abstract: "These were two talks given at the course Molecular Detection of Phytopathogens, offered by the Vegetal Production Program at UFPR. The course was coordinated by Prof. Renata Faier Calegario. 
 
 
