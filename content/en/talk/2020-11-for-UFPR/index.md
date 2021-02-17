@@ -13,17 +13,36 @@ event: Detecção Molecular de Fitopatógenos course at UFPR
   #country: United States
 
 #summary: 
-abstract: "These were two talks given at the course Molecular Detection of Phytopagens, offered by the Vegetal Production Program at UFPR. The course was coordinated by Prof. Renata Faier Calegario. 
+abstract: "These were two talks given at the course Molecular Detection of Phytopathogens, offered by the Vegetal Production Program at UFPR. The course was coordinated by Prof. Renata Faier Calegario. 
+
+
 
 The main goal of the course was to provide students the basic knowledge on several molecular and sorological methods to detect phytopathogens, as well as some notions in bioinformatic tools and analyses.
 
+
+
 In this sense, my talks were focused on:
+
+
+
 - DNA sequence comparison with GenBank sequences
+
+
 - Criteria for finding and selecting reference sequences for comparison
+
+
 - Multi-sequence alignment, alignment inspection and correction
+
+
 - Test of best-fit substitution models
+
+
 - Maximum Likelihood and Bayesian Inference phylogenetic analyses
+
+
 - Basic concepts in phylogeny: how to interpret phylogenetic trees?
+
+
 - How are species defined and identified?"
 
 # Talk start and end times.
