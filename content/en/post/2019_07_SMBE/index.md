@@ -33,12 +33,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [phyllosticta-genome]
+projects: [phyllosticta-genomes]
 ---
 
 **Desirrê AL Petters-Vandresen**, Marcos A Machado, Chirlei Glienke
 
 Genetics, Federal University of Paraná, Curitiba
+
+
 Centro de Citricultura Sylvio Moreira, Cordeirópolis, Brazil
 
 
