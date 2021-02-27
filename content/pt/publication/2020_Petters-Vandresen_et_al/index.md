@@ -3,19 +3,19 @@ title: "Mating-type locus rearrangements and shifts in thallism states in Citrus
 authors:
 - admin
 - Bruno Janoski Rossi
-- Johannes Z Groenewald
-- Pedro W Crous
 - Marcos Antonio Machado
 - Eva H Stukenbrock
+- Johannes Z Groenewald
+- Pedro W Crous
 - Chirlei Glienke
 author_notes:
-- 
-- 
--
--
--
--
-- "Corresponding author"
+- "Laboratório de Bioprospecção e Genética Molecular de Microrganismos (BioGeMM), Departamento de Genética, Setor de Ciências Biológicas, Universidade Federal do Paraná,Curitiba, Brazil; Environmental Genomics, Max Planck Institute for Evolutionary Biology, Plön, Germany"
+- "Laboratório de Bioprospecção e Genética Molecular de Microrganismos (BioGeMM), Departamento de Genética, Setor de Ciências Biológicas, Universidade Federal do Paraná,Curitiba, Brazil"
+- "Centro de Citricultura Sylvio Moreira, Cordeirópolis, Brazil"
+- "Environmental Genomics, Max Planck Institute for Evolutionary Biology, Plön, Germany; Environmental Genomics, Christian-Albrechts University of Kiel, Kiel, Germany"
+- "Westerdijk Fungal Biodiversity Institute, Utrecht, Netherlands"
+- "Westerdijk Fungal Biodiversity Institute, Utrecht, Netherlands"
+- "Corresponding author; Laboratório de Bioprospecção e Genética Molecular de Microrganismos (BioGeMM), Departamento de Genética, Setor de Ciências Biológicas, Universidade Federal do Paraná,Curitiba, Brazil" 
 date: "2020-11-01T00:00:00Z"
 doi: "10.1016/j.fgb.2020.103444"
 
@@ -68,7 +68,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [phyllosticta-genomes]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
