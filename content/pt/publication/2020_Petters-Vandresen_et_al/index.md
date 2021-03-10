@@ -40,8 +40,8 @@ summary: 'Mating-type genes in the *Citrus*-associated *Phyllosticta* species ar
 tags:
 - Phyllosticta citricarpa
 - Mating-type
-- Evolution
-- Transposable elements
+- Evolução
+- Elementos transponíveis
 featured: false
 
 # links:

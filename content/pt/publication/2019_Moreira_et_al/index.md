@@ -35,8 +35,7 @@ tags:
 - Colletotrichum
 - Colletotrichum nymphaeae
 - Colletotrichum acutatum species complex
-- Fungal phylogeny
-- Fungal taxonomy
+- Filogenia e taxonomia de fungos
 featured: false
 
 # links:

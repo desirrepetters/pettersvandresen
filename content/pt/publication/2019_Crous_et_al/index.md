@@ -39,8 +39,7 @@ tags:
 - Fusarium awaxy
 - Fusarium
 - Fusarium fujikuroi species complex
-- Fungal phylogeny
-- Fungal taxonomy
+- Filogenia e taxonomia de fungos
 featured: false
 
 # links:
