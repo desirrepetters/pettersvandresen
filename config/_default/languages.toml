@@ -20,54 +20,5 @@
     url = "#about"
     weight = 1
 	[[main]]
-  
-  [[pt.menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
-  [[main]]
-  
-  [[pt.menu.main]]
-  name = "Projetos"
-  url = "#projects"
-  identifier = "projects"
-  weight = 30
-  [[main]]
-  
-  [[pt.menu.main]]
-  name = "Comparação de genomas de espécies de Phyllosticta associadas a Citros"
-  url = "project/phyllosticta-genomes"
-  parent = "projects"
-  weight = 1
-  [[main]]
-  
-[[pt.menu.main]]
-  name = "Análises funcionais de espécies de Phyllosticta associadas a Citros"
-  url = "project/phyllosticta-functional"
-  parent = "projects"
-  weight = 2
-  [[main]]
-
-[[pt.menu.main]]
-  name = "Publicações"
-  url = "#publications"
-  weight = 40
-  [[main]]
-  
-[[pt.menu.main]]
-  name = "Palestras a Aulas"
-  url = "#talks"
-  weight = 50
-  [[main]]
-  
-[[pt.menu.main]]
-  name = "Cursos"
-  url = "#featured"
-  weight = 60  
-[[main]]
-
-[[pt.menu.main]]
-  name = "Contato"
-  url = "#contact"
-  weight = 70
-[[main]]
+	
+ 
