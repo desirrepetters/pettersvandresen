@@ -12,7 +12,7 @@ event: Doenças de Plantas Cultivadas I course at UEL
   #country: United States
 
 summary: How to understand phytopathogenicity through genomics and evolution?
-abstract: "This was a talk given at the course of "Diseases of Cultivated Plants", offered by the Agronomy course at UEL. The course is coordinated by Prof. Rafaele Regina Moreira. 
+abstract: "This was a talk given at the course of Diseases of Cultivated Plants, offered by the Agronomy course at UEL. The course is coordinated by Prof. Rafaele Regina Moreira. 
 
 
 
