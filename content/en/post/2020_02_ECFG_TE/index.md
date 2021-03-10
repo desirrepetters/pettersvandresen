@@ -19,7 +19,7 @@ author_notes:
 tags:
 - ECFG
 - Phyllosticta
-- Tranposable elements
+- Transposable elements
 - Fungal genomics and evolution
 categories:
 - Posters
