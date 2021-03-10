@@ -12,7 +12,31 @@ event: Doenças de Plantas Cultivadas I course at UEL
   #country: United States
 
 summary: How to understand phytopathogenicity through genomics and evolution?
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "This was a talk given at the course of "Diseases of Cultivated Plants", offered by the Agronomy course at UEL. The course is coordinated by Prof. Rafaele Regina Moreira. 
+
+
+
+The main goal of the course was to provide students the basic knowledge on diseases of agronomically important and cultivated plants, and provide an overview of different areas and professions that interact with phytopathology.
+
+
+
+In this sense, my talk was focused on:
+
+
+
+- What makes fungi phytopathogenic?
+
+
+- Which characteristics are associated with phytopathogenicity and virulence? How do they appear and are mantained across the time?
+
+
+- How can these information guide disease management practices?
+
+
+- What are typical genetic and genomic features of phytopathogens?
+
+
+- Can we observe this features in the Phyllosticta-Citrus pathosystem?"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -48,28 +72,18 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- internal-project
+#projects:
+#- 
 
 # Enable math on this page?
 math: true
 ---
 
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
 
-Slides can be added in a few ways:
-
-- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
