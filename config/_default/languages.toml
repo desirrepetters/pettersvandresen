@@ -19,3 +19,7 @@
     name = "Sobre mim"
     url = "#about"
     weight = 1
+  [[pt.menu.main]]
+    name = "Posts"
+    url = "#posts"
+    weight = 20
