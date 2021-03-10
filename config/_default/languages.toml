@@ -23,3 +23,18 @@
     name = "Posts"
     url = "#posts"
     weight = 20
+  [[pt.menu.main]]
+    name = "Projetos"
+    url = "#projects"
+    identifier = "projects"
+    weight = 30
+  [[pt.menu.main]]
+  name = "Comparação de genomas de espécies de Phyllosticta associadas a Citros"
+  url = "project/phyllosticta-genomes"
+  parent = "projects"
+  weight = 1
+  [[pt.menu.main]]
+  name = "Análises funcionais de espécies de Phyllosticta associadas a Citros"
+  url = "project/phyllosticta-functional"
+  parent = "projects"
+  weight = 2
