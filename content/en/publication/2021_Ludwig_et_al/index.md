@@ -53,7 +53,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S1087184520301353
+url_pdf: https://link.springer.com/content/pdf/10.1007/s10709-021-00130-w.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
