@@ -36,7 +36,7 @@ Together with my PhD supervisor, Prof. Chirlei Glienke, I am one of the lecturer
 
 The main goal of the course is to provide knowledge on concepts and necessary tools for successfull phylogenetic analyses and precise species identification in many different contexts. The course is structured in order to fullfill the needs of beginners and more experienced participants, from academic or diverse backgrounds. 
 
-We have successfully ran two editions of the course, with more than 50 participants. The third edition will happen in the second semester of 2021. If you are a Portuguese speaker and felt interested in the course, feel free to check for more information in our [official website](https://cursodefilogeniaufpr.netlify.app).
+We have successfully ran two editions of the course, with more than 50 participants. The third edition will happen in the second semester of 2022. If you are a Portuguese speaker and felt interested in the course, feel free to check for more information in our [official website](https://cursodefilogeniaufpr.netlify.app).
 
 At the moment we are only running the course in Portuguese, but we consider the idea of making an English edition. If you are interested in participating in a English-based edition, feel free to [contact me directly asking for more details](/#contact). 
 
